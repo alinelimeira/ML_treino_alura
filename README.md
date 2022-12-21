@@ -1,1 +1,1 @@
-# ML_treino_alura
+# Estudo de Machine Learning: classificação com SKLearn
